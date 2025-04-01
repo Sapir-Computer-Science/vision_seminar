@@ -172,3 +172,5 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+*.pptx
+/13_גיאלוי_Contractingskeletalkinematicsforhumanrelatedvideoanomalydetection/COSKAD (1).pptx
