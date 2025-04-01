@@ -174,3 +174,5 @@ cython_debug/
 .pypirc
 *.pptx
 /13_גיאלוי_Contractingskeletalkinematicsforhumanrelatedvideoanomalydetection/COSKAD (1).pptx
+*.py
+*.pth
